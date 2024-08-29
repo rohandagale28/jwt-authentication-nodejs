@@ -1,0 +1,7 @@
+# Client-specific
+/client/node_modules
+/client/build
+
+# Server-specific
+/server/node_modules
+/server/dist
